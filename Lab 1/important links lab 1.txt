@@ -1,0 +1,16 @@
+c# tutorial 
+
+https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/
+
+(Quick Recap)
+https://csharp.net-tutorials.com/classes/properties/
+
+https://www.tutorialspoint.com/csharp/csharp_interfaces.htm
+
+https://www.tutorialsteacher.com/csharp/csharp-class
+
+https://www.tutorialspoint.com/csharp/csharp_inheritance.htm
+
+https://stackoverflow.com/questions/5096926/what-is-the-get-set-syntax-in-c
+
+https://www.c-sharpcorner.com/UploadFile/b1df45/var-vs-dynamic-keywords-in-C-Sharp/

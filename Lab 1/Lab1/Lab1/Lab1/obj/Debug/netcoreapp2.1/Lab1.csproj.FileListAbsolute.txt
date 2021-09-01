@@ -1,0 +1,22 @@
+C:\Users\Shihab\source\repos\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+C:\Users\Shihab\source\repos\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.json
+C:\Users\Shihab\source\repos\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.dev.json
+C:\Users\Shihab\source\repos\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+C:\Users\Shihab\source\repos\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+C:\Users\Shihab\source\repos\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojAssemblyReference.cache
+C:\Users\Shihab\source\repos\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Shihab\source\repos\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\Shihab\source\repos\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+C:\Users\Shihab\source\repos\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+C:\Users\Shihab\source\repos\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb
+D:\Google Drive\Study\AUST\CSE 3200 (C# Dot Net)\Lab1-master\Lab1-master\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+D:\Google Drive\Study\AUST\CSE 3200 (C# Dot Net)\Lab1-master\Lab1-master\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.json
+D:\Google Drive\Study\AUST\CSE 3200 (C# Dot Net)\Lab1-master\Lab1-master\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.dev.json
+D:\Google Drive\Study\AUST\CSE 3200 (C# Dot Net)\Lab1-master\Lab1-master\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+D:\Google Drive\Study\AUST\CSE 3200 (C# Dot Net)\Lab1-master\Lab1-master\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+D:\Google Drive\Study\AUST\CSE 3200 (C# Dot Net)\Lab1-master\Lab1-master\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojAssemblyReference.cache
+D:\Google Drive\Study\AUST\CSE 3200 (C# Dot Net)\Lab1-master\Lab1-master\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+D:\Google Drive\Study\AUST\CSE 3200 (C# Dot Net)\Lab1-master\Lab1-master\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+D:\Google Drive\Study\AUST\CSE 3200 (C# Dot Net)\Lab1-master\Lab1-master\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+D:\Google Drive\Study\AUST\CSE 3200 (C# Dot Net)\Lab1-master\Lab1-master\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+D:\Google Drive\Study\AUST\CSE 3200 (C# Dot Net)\Lab1-master\Lab1-master\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb

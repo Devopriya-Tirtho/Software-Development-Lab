@@ -1,0 +1,8 @@
+C:\Users\CSE\Desktop\Hasib Pranto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\CSE\Desktop\Hasib Pranto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\CSE\Desktop\Hasib Pranto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SampleForm.resources
+C:\Users\CSE\Desktop\Hasib Pranto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\CSE\Desktop\Hasib Pranto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Show.resources
+C:\Users\CSE\Desktop\Hasib Pranto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\CSE\Desktop\Hasib Pranto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\CSE\Desktop\Hasib Pranto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
